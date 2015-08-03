@@ -1,0 +1,18 @@
+Features of the program:
+
+- Written in VB or VBA
+- Graphical interface
+- Reads G-code
+- Displays G-code and 3D Representation of the G-code object.
+- Has 2 main panes: G-code and Graphics.
+- Can filter the G-code/graphics by layer : All, 1 layer, From-to layers.
+- 3D shows the Direction of movement
+- Allow the entry of Backlash of movement - in X, Y, Z. So if there is a change in direction, the backlash is "absorbed" and the movement is reduced by the backlash amount. To see how diagonal fills are printed, circles, etc.
+- Allow the entry of filament thickness - to display thick lines.
+- Print layers in different colors? 
+- Show movements?
+- Is it possible to show speeds?
+
+
+Problems:
+- Learn how to use OpenGL to create 3D
